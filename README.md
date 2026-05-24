@@ -22,6 +22,8 @@ Open:
 http://localhost:8000
 ```
 
+On Windows, see `WINDOWS_RUN_INSTRUCTIONS.md`.
+
 ## Controls
 
 - `WASD` or arrow keys: thrust
